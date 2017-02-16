@@ -1,0 +1,69 @@
+.main .header .slide {
+    width: 100%;
+    background-color: lightslategrey;
+    height: 40%;
+}
+
+h1 {
+    padding: 20px;
+}
+
+h6 {
+    padding: 20px;
+    color: ghostwhite;
+}
+
+h4 {
+    text-align: center;
+    padding: 100px;
+}
+
+.content_1 {
+    width: 100%;
+}
+
+.content_2 {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    padding: 50px;
+}
+
+.bir,
+.iki,
+.uc,
+.dord,
+.bes,
+.alti {
+    width: 26%;
+    height: 26%;
+    background-color: dimgrey;
+    padding: 15px;
+    float: left;
+    margin: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+.menu ul li {
+    display: inline;
+    float: right;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+.menu {
+    width: 100%;
+    height: 6%;
+    background-color: black;
+    margin-top: 10px;
+}
